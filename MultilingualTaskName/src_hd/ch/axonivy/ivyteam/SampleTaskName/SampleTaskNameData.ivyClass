@@ -1,0 +1,4 @@
+SampleTaskNameData #class
+ch.axonivy.ivyteam.SampleTaskName #namespace
+taskname String #field
+taskname PERSISTENT #fieldModifier

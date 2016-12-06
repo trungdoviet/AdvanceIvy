@@ -1,0 +1,6 @@
+SimpleTaskListData #class
+ch.axonivy.ivyteam.SimpleTaskList #namespace
+tasks java.util.List<ch.ivyteam.ivy.workflow.ITask> #field
+tasks PERSISTENT #fieldModifier
+tasksOnDisplays java.util.List<String> #field
+tasksOnDisplays PERSISTENT #fieldModifier

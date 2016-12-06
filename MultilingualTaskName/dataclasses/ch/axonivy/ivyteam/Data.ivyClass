@@ -1,0 +1,4 @@
+Data #class
+ch.axonivy.ivyteam #namespace
+taskName String #field
+taskName PERSISTENT #fieldModifier
